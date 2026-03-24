@@ -249,7 +249,7 @@ The app also provides a seamless experience with **offline support, notification
 ---
 
 ## 🎥 Demo
-Check out the full demo of **MealTime App** here: [Watch Demo Video]([https://youtu.be/dKHf_uGSr-s](https://youtu.be/dKHf_uGSr-s))
+Check out the full demo of **MealTime App** here: [Watch Demo Video](https://youtu.be/dKHf_uGSr-s)
 
 ---
 
