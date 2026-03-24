@@ -142,7 +142,7 @@ The app also provides a seamless experience with **offline support, notification
 🎬 **Live App Demo:**
 
 > 📌 This demo showcases the full app flow, including authentication, meal management, notifications, and offline handling.
-[Watch Demo Video](https://drive.google.com/file/d/1MisoXN5RiCnFU9xinml3nOPlxc8nNPJz/view?usp=sharing)
+[Watch Demo Video](https://youtu.be/dKHf_uGSr-s)
 
 ---
 
@@ -282,11 +282,6 @@ The app also provides a seamless experience with **offline support, notification
 ---
 
 > 💡 This structure ensures scalability, maintainability, and separation of concerns, making the app easy to extend and manage.
-
----
-
-## 🎥 Demo
-Check out the full demo of **MealTime App** here: [Watch Demo Video](https://youtu.be/dKHf_uGSr-s)
 
 ---
 
