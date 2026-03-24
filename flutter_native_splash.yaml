@@ -1,0 +1,19 @@
+
+
+
+
+flutter_native_splash:
+
+  color: "#ffffff"
+  image: assets/images/splash_chef_app_logo.png
+
+
+
+
+
+
+  android_12:
+    color: "#ffffff"
+    image: assets/images/meals_app_android_12_logo.png
+
+
