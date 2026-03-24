@@ -248,6 +248,43 @@ The app also provides a seamless experience with **offline support, notification
 
 ---
 
+## 🏗️ Tech Stack
+
+* Flutter
+* Dart
+* State Management: Bloc / Cubit
+* MVVM Architecture
+* REST APIs Integration
+* Firebase (Notifications, Analytics, Crashlytics)
+* Dynamic Links
+* Google Cloud Platform (Location Services)
+* Hive
+* SharedPrefernces
+
+---
+
+## 🏗️ Project Structure
+
+> 📌 The project follows a clean and scalable **feature-based architecture** using Flutter & Bloc.
+
+---
+
+### 🧩 Overall Architecture
+
+![Project Structure](./assets/app_screens/mealtime_app_feature_structure.png)
+
+---
+
+### 🧱 Feature Structure Example
+
+![Feature Structure](./assets/app_screens/mealtime_app_verall_structure.png)
+
+---
+
+> 💡 This structure ensures scalability, maintainability, and separation of concerns, making the app easy to extend and manage.
+
+---
+
 ## 🎥 Demo
 Check out the full demo of **MealTime App** here: [Watch Demo Video](https://youtu.be/dKHf_uGSr-s)
 
