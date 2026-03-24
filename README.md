@@ -271,13 +271,13 @@ The app also provides a seamless experience with **offline support, notification
 
 ### 🧩 Overall Architecture
 
-![Project Structure](./assets/app_screens/mealtime_app_feature_structure.png)
+![Project Structure](./assets/app_screens/mealtime_app_verall_structure.png)
 
 ---
 
 ### 🧱 Feature Structure Example
 
-![Feature Structure](./assets/app_screens/mealtime_app_verall_structure.png)
+![Feature Structure](./assets/app_screens/mealtime_app_feature_structure.png)
 
 ---
 
