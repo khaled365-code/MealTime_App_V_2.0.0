@@ -13,7 +13,7 @@ import 'core/routes/routes.dart';
 class MealTimeApp extends StatelessWidget {
   const MealTimeApp({super.key});
 
-  // This widget is the root of my application.
+
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
@@ -24,6 +24,7 @@ class MealTimeApp extends StatelessWidget {
               BlocBuilder<LocalizationCubit,LocalizationState>(
                 builder: (context, state) {
                   return MaterialApp(
+                    title: 'Meal Time',
                     locale: Locale(CacheHelper().getData(key: ApiKeys.appCurrentLanguage)??
                         LocalizationCubit.get(context).currentLang),
                     localizationsDelegates: const
@@ -56,3 +57,9 @@ class MealTimeApp extends StatelessWidget {
     );
   }
 }
+
+/*
+
+
+
+ */
