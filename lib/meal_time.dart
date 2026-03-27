@@ -24,6 +24,7 @@ class MealTimeApp extends StatelessWidget {
               BlocBuilder<LocalizationCubit,LocalizationState>(
                 builder: (context, state) {
                   return MaterialApp(
+                    title: 'Meal Time',
                     locale: Locale(CacheHelper().getData(key: ApiKeys.appCurrentLanguage)??
                         LocalizationCubit.get(context).currentLang),
                     localizationsDelegates: const
