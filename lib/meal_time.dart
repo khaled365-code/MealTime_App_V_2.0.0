@@ -13,7 +13,7 @@ import 'core/routes/routes.dart';
 class MealTimeApp extends StatelessWidget {
   const MealTimeApp({super.key});
 
-  // This widget is the root of my application.
+
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
