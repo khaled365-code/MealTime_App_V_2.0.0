@@ -11,6 +11,7 @@ import '../models/get_meals_model/system_all_meals.dart';
 abstract class HomeRepo
 {
 
+
   Future<Either<ErrorModel,ChefInfoModel>>getChefData({required String chefIId});
 
   Future<Either<ErrorModel,GetAllMealsModel>>getAllMeals();
